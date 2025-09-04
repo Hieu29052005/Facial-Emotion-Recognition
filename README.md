@@ -39,7 +39,7 @@ image_classifier/
 
 ```bash
 # Clone project
-https://github.com/yourusername/image_classifier.git
+https://github.com/Hieu29052005/image_classifier.git
 cd image_classifier
 
 # Install dependencies

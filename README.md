@@ -35,7 +35,7 @@ image_classifier/
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone project

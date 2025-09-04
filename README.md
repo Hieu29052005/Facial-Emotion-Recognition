@@ -10,7 +10,7 @@ This project is a complete pipeline for **Facial Emotion Recognition** (or gener
 
 ---
 
-## 🚀 Project Structure
+## Project Structure
 
 ```
 image_classifier/
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📂 Dataset Setup
+## Dataset Setup
 
 Organize dataset in this format:
 
@@ -68,7 +68,7 @@ data/
 
 ---
 
-## 🏋️ Training
+## Training
 
 Train a **ResNet-like custom model**:
 
@@ -86,7 +86,7 @@ The trained model will be saved as `model.h5`.
 
 ---
 
-## 🔍 Prediction
+## Prediction
 
 ### Single image
 
@@ -104,7 +104,7 @@ Press **q** to quit.
 
 ---
 
-## 🌐 Web App (Streamlit)
+## Web App (Streamlit)
 
 ```bash
 streamlit run app.py
@@ -114,7 +114,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Evaluation
+## Evaluation
 
 Use `plot_utils.py` to:
 
@@ -137,7 +137,7 @@ plot_confusion_report(y_true, y_pred, class_names)
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 * Python 3.8+
 * TensorFlow 2.x
@@ -155,7 +155,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📌 Deployment
+## Deployment
 
 You can deploy on:
 
@@ -166,6 +166,6 @@ You can deploy on:
 
 ---
 
-## ✨ Author
+## Author
 
-Nguyễn Vương Trung Hiếu
+Nguyen Vuong Trung Hieu
